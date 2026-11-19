@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "319803834207",
+    "firebase_url": "https://fizah-95727-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fizah-95727",
+    "storage_bucket": "fizah-95727.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319803834207:android:2ce3de002430e7080e00ea",
+        "android_client_info": {
+          "package_name": "com.example.iot_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTx_X1fpeWxDmqbAK62IaJ-oJaxuRlpnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
